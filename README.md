@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/kephchunga/easybank-landing-page](https://github.com/kephchunga/easybank-landing-page)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [https://kents-easybank.netlify.app/](https://kents-easybank.netlify.app/)
 
 ## My process
 
