@@ -347,7 +347,8 @@ p {
   .hero__content {
     order: 1;
     flex: 2;
-    padding-inline: unset;
+    padding-left: 1.5rem;
+    padding-right: 0px;
     text-align: left;
   }
   .hero__content-intro {
